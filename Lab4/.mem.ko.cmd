@@ -1,0 +1,1 @@
+cmd_/home/kbritto/ECGR-6181/Lab4/mem.ko := arm-linux-gnueabi-ld -r  -EL -z noexecstack   --build-id=sha1  -T scripts/module.lds -o /home/kbritto/ECGR-6181/Lab4/mem.ko /home/kbritto/ECGR-6181/Lab4/mem.o /home/kbritto/ECGR-6181/Lab4/mem.mod.o;  true

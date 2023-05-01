@@ -1,0 +1,12 @@
+{
+    "files.associations": {
+        "csapp.h": "c",
+        "cvutils.h": "c",
+        "array": "c",
+        "string_view": "c",
+        "initializer_list": "c",
+        "ranges": "c",
+        "utility": "c",
+        "server.h": "c"
+    }
+}

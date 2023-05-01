@@ -1,0 +1,3 @@
+/home/kbritto/ECGR-6181/FinalProject/opencv-4.6.0/Code/CMakeFiles/rebuild_cache.dir
+/home/kbritto/ECGR-6181/FinalProject/opencv-4.6.0/Code/CMakeFiles/edit_cache.dir
+/home/kbritto/ECGR-6181/FinalProject/opencv-4.6.0/Code/CMakeFiles/contourDetector.dir

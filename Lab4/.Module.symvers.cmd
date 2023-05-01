@@ -1,0 +1,1 @@
+cmd_/home/kbritto/ECGR-6181/Lab4/Module.symvers := sed 's/ko$$/o/' /home/kbritto/ECGR-6181/Lab4/modules.order | scripts/mod/modpost    -o /home/kbritto/ECGR-6181/Lab4/Module.symvers -e -i Module.symvers   -T -
